@@ -19,7 +19,7 @@ The background turns white, since the base href becomes empty and the CSS file i
 To see working base href test the other urls:
 
 * http://localhost:3000/html/working1.html
-* htpp://localhost:3000/html/working2.html
+* http://localhost:3000/html/working2.html
 
 Notice how it is the combination of the name attribute on the textarea and an a-tag inside the textarea that creates this issue.
 
